@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/02_butter_knife/02_butter_knife.iml" filepath="$PROJECT_DIR$/02_butter_knife/02_butter_knife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_event_bus/02_event_bus.iml" filepath="$PROJECT_DIR$/02_event_bus/02_event_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_green_dao/04_green_dao.iml" filepath="$PROJECT_DIR$/04_green_dao/04_green_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fanshedemo02/fanshedemo02.iml" filepath="$PROJECT_DIR$/fanshedemo02/fanshedemo02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rikao20180309.iml" filepath="$PROJECT_DIR$/rikao20180309.iml" />
+    </modules>
+  </component>
+</project>
