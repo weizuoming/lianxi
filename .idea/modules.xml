@@ -4,7 +4,13 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/02_butter_knife/02_butter_knife.iml" filepath="$PROJECT_DIR$/02_butter_knife/02_butter_knife.iml" />
       <module fileurl="file://$PROJECT_DIR$/02_event_bus/02_event_bus.iml" filepath="$PROJECT_DIR$/02_event_bus/02_event_bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_httpclient_demo/03_httpclient_demo.iml" filepath="$PROJECT_DIR$/03_httpclient_demo/03_httpclient_demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/04_green_dao/04_green_dao.iml" filepath="$PROJECT_DIR$/04_green_dao/04_green_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_retrofit/05_retrofit.iml" filepath="$PROJECT_DIR$/05_retrofit/05_retrofit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_rxjava/06_rxjava.iml" filepath="$PROJECT_DIR$/06_rxjava/06_rxjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_rxjava_retrofit_mvp/07_rxjava_retrofit_mvp.iml" filepath="$PROJECT_DIR$/07_rxjava_retrofit_mvp/07_rxjava_retrofit_mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_rxjava_retrofit_mvp/08_rxjava_retrofit_mvp.iml" filepath="$PROJECT_DIR$/08_rxjava_retrofit_mvp/08_rxjava_retrofit_mvp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_alipay/09_alipay.iml" filepath="$PROJECT_DIR$/09_alipay/09_alipay.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/fanshedemo02/fanshedemo02.iml" filepath="$PROJECT_DIR$/fanshedemo02/fanshedemo02.iml" />
       <module fileurl="file://$PROJECT_DIR$/rikao20180309.iml" filepath="$PROJECT_DIR$/rikao20180309.iml" />

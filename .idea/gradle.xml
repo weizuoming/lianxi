@@ -10,7 +10,13 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/02_butter_knife" />
             <option value="$PROJECT_DIR$/02_event_bus" />
+            <option value="$PROJECT_DIR$/03_httpclient_demo" />
             <option value="$PROJECT_DIR$/04_green_dao" />
+            <option value="$PROJECT_DIR$/05_retrofit" />
+            <option value="$PROJECT_DIR$/06_rxjava" />
+            <option value="$PROJECT_DIR$/07_rxjava_retrofit_mvp" />
+            <option value="$PROJECT_DIR$/08_rxjava_retrofit_mvp" />
+            <option value="$PROJECT_DIR$/09_alipay" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/fanshedemo02" />
           </set>

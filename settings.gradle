@@ -1,1 +1,1 @@
-include ':app', ':02_event_bus', ':02_butter_knife', ':fanshedemo02', ':04_green_dao'
+include ':app', ':02_event_bus', ':02_butter_knife', ':fanshedemo02', ':04_green_dao', ':03_httpclient_demo', ':05_retrofit', ':06_rxjava', ':07_rxjava_retrofit_mvp', ':08_rxjava_retrofit_mvp', ':09_alipay'
